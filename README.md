@@ -1,2 +1,1 @@
-# python
-Learn how to design website
+the first github demo
